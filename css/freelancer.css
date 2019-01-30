@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lato';
-  background-image: url(../img/Woodback.jpg);
+  background-image: url(../img/darkwood.jpg);
   background-size: contain;
 }
 
@@ -329,13 +329,13 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url(../img/Woodback.jpg);
+  background-image: url(../img/darkwood.jpg);
   background-size: cover;
   color: #fff;
 }
 
 .copyright {
-  background-image: url(../img/Flowerback2.jpg);
+  background-image: url(../img/darkwood.jpg);
   background-size: cover;
 }
 
@@ -352,12 +352,12 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-image: url(../img/Flowerback2.jpg) !important;
+  background-image: url(../img/roseback.jpg) !important;
   background-size: cover;
 }
 
 .bg-secondary {
-  background-image: url(../img/Woodback.jpg) !important;
+  background-image: url(../img/darkwood.jpg) !important;
   background-size: cover;
 }
 
